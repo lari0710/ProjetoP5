@@ -30,7 +30,7 @@ href="style.css">
     
     <section class="sobre"> 
       <img
-  src="https://images.unsplash.com/photo-1500937386664-56d1dfef3854?q=80&w=1200&auto=format&fit=crop" 
+  src="file:///home/escola/Downloads/Mercado-Agro.jpg" 
       alt="Plantação">
       <div class="texto"> 
         <h3>O Agro e a Sustentabilidade</h3> 
